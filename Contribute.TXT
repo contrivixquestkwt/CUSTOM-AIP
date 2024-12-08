@@ -1,0 +1,5 @@
+ How to contribute 
+
+1. edit the Aip & other files for spelling errors(aip available as docx file for editing)
+2. Test the SIDS STARS & ATS ROUTES
+3.  create the SIDS STARS & ATS ROUES for aerodromes
